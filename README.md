@@ -20,6 +20,15 @@ Welcome to the Password Reset and User Management API! This repository contains 
 
 To get started with the Password Reset and User Management API, follow these steps:
 
+
+postman documentation link:
+https://documenter.getpostman.com/view/35217393/2sA3XLFPzG
+
+
+
+
+
+
 1. **Clone the Repository**: Clone this repository .
 
 2. **Install Dependencies**: Install the necessary dependencies by running `npm install`.
